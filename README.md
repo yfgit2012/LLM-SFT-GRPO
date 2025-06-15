@@ -15,4 +15,8 @@ Using OpenMathReasoning-mini dataset to post-train [Qwen3-4B-Base](https://huggi
 - [Notebook](https://github.com/yfgit2012/LLM-SFT-GRPO/blob/main/SFT_GRPO_unsloth.ipynb)   
 - [Dataset](https://huggingface.co/datasets/unsloth/OpenMathReasoning-mini)   
 
+## Reference
+
+[DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
+
 
