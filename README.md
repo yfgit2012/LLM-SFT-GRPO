@@ -17,6 +17,7 @@ Using OpenMathReasoning-mini dataset to post-train [Qwen3-4B-Base](https://huggi
 
 ## Reference
 
-[DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
+- [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
+- [Unsloth](https://unsloth.ai/)    
 
 
