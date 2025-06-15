@@ -9,3 +9,10 @@ Concurrently, Reinforcement Learning (RL) approaches like Guided Reward Preferen
 By first using SFT to adapt the model to a specific domain or task, and then applying GRPO to fine-tune based on human preferences, you can create highly specialized models that not only perform well on targeted tasks but also align closely with user expectations and ethical considerations. This hybrid approach allows for more nuanced control over model behavior, potentially leading to AI systems that are both highly capable and more aligned with human values.
 
 ## Example 
+
+Using OpenMathReasoning-mini dataset to post-train [Qwen3-4B-Base](https://huggingface.co/Qwen/Qwen3-4B) using [unsloth](https://github.com/unslothai/unsloth)
+
+- [Notebook](https://github.com/yfgit2012/LLM-SFT-GRPO/blob/main/SFT_GRPO_unsloth.ipynb)   
+- [Dataset](https://huggingface.co/datasets/unsloth/OpenMathReasoning-mini)   
+
+
